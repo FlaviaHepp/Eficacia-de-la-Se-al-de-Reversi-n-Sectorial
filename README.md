@@ -80,3 +80,60 @@ Permite:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+****
+📊 **No todas las señales funcionan igual… depende del sector.**
+
+Una de las reglas más conocidas del análisis técnico es:
+
+👉 **RSI < 30 = sobreventa → posible rebote**
+
+Pero hay una pregunta más interesante:
+
+🧠 **¿Dónde funciona mejor esta señal?**
+
+---
+
+📊 En este análisis evalué:
+
+* Cada vez que una acción entra en **sobreventa (RSI < 30)**
+* Y medí su **rendimiento 10 días después**
+
+Luego comparé los resultados… **por sector**.
+
+---
+
+⚠️ Resultado clave:
+
+👉 La misma señal puede ser:
+
+* Muy efectiva en algunos sectores
+* Completamente irrelevante en otros
+
+---
+
+💡 ¿Por qué pasa esto?
+
+Porque cada sector tiene su propia dinámica:
+
+* Algunos tienden a revertir rápido (mean-reverting)
+* Otros mantienen tendencias fuertes (trend-following)
+
+---
+
+🚨 Insight clave:
+**No operes señales… operá contextos.**
+
+---
+
+🔍 Este enfoque permite:
+✔️ Filtrar señales según el sector
+✔️ Mejorar la tasa de acierto
+✔️ Evitar estrategias “one size fits all”
+
+---
+
+📉 En trading cuantitativo, la ventaja no está en la señal…
+está en saber **cuándo y dónde usarla**.
+
+#Quant #Trading #DataScience #RSI #FactorInvesting #Finanzas #MachineLearning
